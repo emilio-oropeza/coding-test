@@ -1,0 +1,72 @@
+[
+    {
+        "name": "John",
+        "last_name": "Doe",
+        "id": 1,
+        "age": 25,
+        "email": "john.doe@example.com"
+    },
+    {
+        "name": "Jane",
+        "last_name": "Smith",
+        "id": 2,
+        "age": 30,
+        "email": "jane.smith@example.com"
+    },
+    {
+        "name": "Michael",
+        "last_name": "Johnson",
+        "id": 3,
+        "age": 35,
+        "email": "michael.johnson@example.com"
+    },
+    {
+        "name": "Emily",
+        "last_name": "Brown",
+        "id": 4,
+        "age": 28,
+        "email": "emily.brown@example.com"
+    },
+    {
+        "name": "Daniel",
+        "last_name": "Taylor",
+        "id": 5,
+        "age": 32,
+        "email": "daniel.taylor@example.com"
+    },
+    {
+        "name": "Olivia",
+        "last_name": "Miller",
+        "id": 6,
+        "age": 27,
+        "email": "olivia.miller@example.com"
+    },
+    {
+        "name": "David",
+        "last_name": "Anderson",
+        "id": 7,
+        "age": 31,
+        "email": "david.anderson@example.com"
+    },
+    {
+        "name": "Sophia",
+        "last_name": "Wilson",
+        "id": 8,
+        "age": 29,
+        "email": "sophia.wilson@example.com"
+    },
+    {
+        "name": "James",
+        "last_name": "Thomas",
+        "id": 9,
+        "age": 33,
+        "email": "james.thomas@example.com"
+    },
+    {
+        "name": "Ava",
+        "last_name": "Martinez",
+        "id": 10,
+        "age": 26,
+        "email": "ava.martinez@example.com"
+    }
+]

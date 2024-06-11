@@ -1,0 +1,38 @@
+{
+    "Home": {
+      "title": "Welcome!!!"
+    },
+    "LocaleSwitcher": {
+      "es": "Spanish",
+      "en": "English"
+    },
+    "Sidebar": {
+      "users": "Users",
+      "news": "News"
+    },
+    "UsersTable": {
+      "name": "Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "age": "Age",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "UserView": {
+      "name": "Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "age": "Age",
+      "save": "Save"
+    },
+    "Users": {
+      "title": "Users",
+      "new_user": "New User"
+    },
+    "NewsTable": {
+      "title": "News Title",
+      "read_news": "Read News",
+      "read_more": "Read more"
+    }
+}

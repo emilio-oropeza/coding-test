@@ -1,0 +1,38 @@
+{
+    "Home": {
+      "title": "Bienvenido!!!!"
+    },
+    "LocaleSwitcher": {
+      "es": "Español",
+      "en": "Inglés"
+    },
+    "Sidebar": {
+      "users": "Usuarios",
+      "news": "Noticias"
+    },
+    "UsersTable": {
+      "name": "Nombre",
+      "last_name": "Apellido",
+      "email": "Email",
+      "age": "Edad",
+      "actions": "Acciones",
+      "edit": "Editar",
+      "delete": "Eliminar"
+    },
+    "UserView": {
+      "name": "Nombre",
+      "last_name": "Apellido",
+      "email": "Email",
+      "age": "Edad",
+      "save": "Guardar"
+    },
+    "Users": {
+      "title": "Usuarios",
+      "new_user": "Nuevo Usuario"
+    },
+    "NewsTable": {
+      "title": "Título de la Notícia",
+      "read_news": "Leer la nota",
+      "read_more": "Leer más"
+    }
+}
