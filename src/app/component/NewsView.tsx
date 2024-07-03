@@ -8,7 +8,6 @@ interface NewsViewProps {
 
 const NewsView: React.FC<NewsViewProps> = ({ id }) => {
     const locale = useLocale();
-    const t = useTranslations("NewsView");
     const news = newsData.find((news: { id: number }) => news.id === id);
     const title = locale === "en" ? news?.title_en : news?.title_es;
     const content = locale === "en" ? news?.content_en : news?.content_es;

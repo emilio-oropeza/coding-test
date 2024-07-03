@@ -1,6 +1,6 @@
 'use client'
 import React, { useContext } from 'react'
-import { contexto } from '@/app/layout'
+import { contexto } from '@/app/providers'
 import { User } from '@/app/types/userType';
 import { useRouter } from 'next/navigation'
 import { useLocale, useTranslations } from 'next-intl';
